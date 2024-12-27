@@ -1,0 +1,10 @@
+Output: Mixed Sim
+Type  : AdvSimNetlist
+From  : Project [Keytag Detector.PrjPcb]
+   Generated File[Keytag Detector.nsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:11:28 PM On 12/27/2024

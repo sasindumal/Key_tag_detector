@@ -1,0 +1,142 @@
+;Proteus Design Interchange Format
+
+(PDIF
+  (vendor "Labcenter Electronics")
+  (version 1 0)
+  (library
+    (part "CMA4544PFW"
+      (family "ANA")
+      (package "MIC_CMA4544PFW")
+      (description "CMA_Series_9.7_mm_Electret_Condenser_Omni-Directional_Pin_Mount_3_V_Microphone")
+      (attribute "PKG_TYPE" "MIC_CMA4544PFW")
+      (attribute "MF" "Same_Sky")
+      (attribute "DESCRIPTION" "9.7_mm,_Omnidirectional,_PCB_Mount,_3.0_Vdc,_Electret_Condenser_Microphone")
+      (attribute "PACKAGE" "6-DIP-6_CUI")
+      (attribute "PRICE" "None")
+      (attribute "PACKAGE" "None")
+      (attribute "CHECK_PRICES" "https://www.snapeda.com/parts/CMA-4544PF-W/Same+Sky/view-part/?ref=eda")
+      (attribute "CUI_PURCHASE_URL" "https://www.cui.com/product/audio/microphones/electret-condenser-microphones/cma-4544pf-w?utm_source=snapeda.com&utm_medium=referral&utm_campaign=snapedaBOM")
+      (attribute "SNAPEDA_LINK" "https://www.snapeda.com/parts/CMA-4544PF-W/Same+Sky/view-part/?ref=snap")
+      (attribute "MP" "CMA-4544PF-W")
+      (attribute "PRICE" "None")
+      (attribute "AVAILABILITY" "In_Stock")
+      (attribute "AVAILABILITY" "Unavailable")
+      (attribute "DESCRIPTION" "______________________________________________________9.7_mm,_Omnidirectional,_PCB_Mount,_3.0_Vdc,_Electret_Condenser_Microphone______________________________________________")
+      (gate
+        (swap 1)
+        (symbol "CMA4544PFW")
+        (pin "GND" 2 (type PP))
+        (pin "OUT" 1 (type OP))
+      )
+    )
+    (symbol "CMA4544PFW"
+      (units THOU)
+      (graphic
+        (stroke 10.0)
+        (fill NONE)
+        (circle (pt -100 0) (pt 100 0))
+      )
+      (graphic
+        (stroke 10.0)
+        (path (pt -100.0 100.0) (pt -100.0 -100.0))
+      )
+      (graphic
+        (stroke 10.0)
+        (path (pt 200.0 100.0) (pt 150.0 100.0))
+      )
+      (graphic
+        (stroke 10.0)
+        (path (pt 150.0 100.0) (pt 150.0 50.0))
+      )
+      (graphic
+        (stroke 10.0)
+        (path (pt 150.0 50.0) (pt 88.0 50.0))
+      )
+      (graphic
+        (stroke 10.0)
+        (path (pt 200.0 -100.0) (pt 150.0 -100.0))
+      )
+      (graphic
+        (stroke 10.0)
+        (path (pt 150.0 -100.0) (pt 150.0 -50.0))
+      )
+      (graphic
+        (stroke 10.0)
+        (path (pt 150.0 -50.0) (pt 88.0 -50.0))
+      )
+      (terminal
+        (body (symbol "PIN_R180_U_L100") (pt 300.0 -100.0) (rot 0) (mir 0) (visible true))
+        (name (pt -139.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible false))
+        (number (pt -39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible false))
+      )
+      (terminal
+        (body (symbol "PIN_R180_U_L100") (pt 300.0 100.0) (rot 0) (mir 0) (visible true))
+        (name (pt -139.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible false))
+        (number (pt -39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible false))
+      )
+    )
+    (symbol "PIN_R180_U_L100"
+      (units THOU)
+      (graphic
+        (stroke 6.5)
+        (path (pt 0.0 0.0) (pt -100.0 0.0))
+      )
+    )
+    (package "MIC_CMA4544PFW"
+      (units THOU)
+      (layer TSLK
+        (graphic
+          (stroke 5.0)
+          (fill NONE)
+          (circle (pt -190.94 0) (pt 190.94 0))
+        )
+        (graphic
+          (stroke 11.81)
+          (circle (pt 210.35 -68.54) (pt 218.23 -68.54))
+        )
+      )
+      (layer TASM
+        (graphic
+          (stroke 5.0)
+          (fill NONE)
+          (circle (pt -190.94 0) (pt 190.94 0))
+        )
+        (graphic
+          (stroke 11.81)
+          (circle (pt 210.35 -68.54) (pt 218.23 -68.54))
+        )
+      )
+      (layer OCCA
+        (graphic
+          (stroke 1.97)
+          (fill NONE)
+          (circle (pt -200.79 0) (pt 200.79 0))
+        )
+      )
+      (leg 1 (pt 78.74 -50) (padstack 1))
+      (leg 2 (pt 78.74 50) (padstack 2))
+      (padstack 1
+        (hole 34)
+        (plated true)
+        (pad (layer TCOP) (square 54.25))
+        (pad (layer INNER) (square 54.25))
+        (pad (layer BCOP) (square 54.25))
+        (pad (layer TRES) (square 58.19))
+        (pad (layer BRES) (square 58.19))
+      )
+      (padstack 2
+        (hole 34)
+        (plated true)
+        (pad (layer TCOP) (round 54.25))
+        (pad (layer INNER) (round 54.25))
+        (pad (layer BCOP) (round 54.25))
+        (pad (layer TRES) (round 58.19))
+        (pad (layer BRES) (round 58.19))
+      )
+      (model CMA-4544PF-W.step
+        (euler 0 0 0)
+        (offset 0 0 0)
+      )
+    )
+  )
+)
