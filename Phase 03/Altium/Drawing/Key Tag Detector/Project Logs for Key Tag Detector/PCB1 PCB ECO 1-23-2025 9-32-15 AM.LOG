@@ -1,0 +1,36 @@
+Change Physical Footprint: Designator=232 Old Footprint=BAT_BH-25C-1 New Footprint=BAT_BH-25C-1
+Change Physical Footprint: Designator=BT1 Old Footprint=BAT_BH-25C-1 New Footprint=BAT_BH-25C-1
+Change Physical Footprint: Designator=BT2 Old Footprint=BAT_BH-25C-1 New Footprint=BAT_BH-25C-1
+Change Physical Footprint: Designator=C1 Old Footprint=FP-ECA-2WHG010-MFG New Footprint=FP-ECA-2WHG010-MFG
+Change Physical Footprint: Designator=C2 Old Footprint=CAPRB250W50L550T350H600 New Footprint=CAPRB250W50L550T350H600
+Change Physical Footprint: Designator=C3 Old Footprint=FP-RAD-TH-D_5_0_5-L_11_1-MFG New Footprint=FP-RAD-TH-D_5_0_5-L_11_1-MFG
+Change Physical Footprint: Designator=C4 Old Footprint=FP-RAD-TH-D_8_0_5-L_11_5-MFG New Footprint=FP-RAD-TH-D_8_0_5-L_11_5-MFG
+Change Physical Footprint: Designator=C5 Old Footprint=LEADED_DECOUPLING_CAP(.1) New Footprint=LEADED_DECOUPLING_CAP(.1)
+Change Physical Footprint: Designator=C6 Old Footprint=FP-RAD-TH-D_5_0_5-L_11_1-MFG New Footprint=FP-RAD-TH-D_5_0_5-L_11_1-MFG
+Change Physical Footprint: Designator=C7 Old Footprint=FP-RAD-TH-D_8_0_5-L_11_5-MFG New Footprint=FP-RAD-TH-D_8_0_5-L_11_5-MFG
+Change Physical Footprint: Designator=C8 Old Footprint=LEADED_DECOUPLING_CAP(.1) New Footprint=LEADED_DECOUPLING_CAP(.1)
+Change Physical Footprint: Designator=C9 Old Footprint=FP-RAD-TH-D_8_0_5-L_11_5-MFG New Footprint=FP-RAD-TH-D_8_0_5-L_11_5-MFG
+Change Physical Footprint: Designator=C10 Old Footprint=LEADED_DECOUPLING_CAP(.1) New Footprint=LEADED_DECOUPLING_CAP(.1)
+Change Physical Footprint: Designator=D1 Old Footprint=NXP-SOD27-2_V New Footprint=NXP-SOD27-2_V
+Change Physical Footprint: Designator=D2 Old Footprint=NXP-SOD27-2_V New Footprint=NXP-SOD27-2_V
+Change Physical Footprint: Designator=D3 Old Footprint=NXP-SOD27-2_V New Footprint=NXP-SOD27-2_V
+Change Physical Footprint: Designator=IC1 Old Footprint=TMB12A12 New Footprint=TMB12A12
+Change Physical Footprint: Designator=LS1 Old Footprint=FP-POM-2738P-R-MFG New Footprint=FP-POM-2738P-R-MFG
+Change Physical Footprint: Cannot match pads with new footprint in component :Q1 Footprint:ONSC-TO-92-3-29-11
+Change Physical Footprint: Cannot match pads with new footprint in component :Q2 Footprint:ONSC-TO-92-3-29-11
+Change Physical Footprint: Cannot match pads with new footprint in component :Q3 Footprint:ONSC-TO-92-3-29-11
+Change Physical Footprint: Designator=Q4 Old Footprint=ONSC-TO-92-3-29-11 New Footprint=ONSC-TO-92-3-29-11
+Change Physical Footprint: Designator=R1 Old Footprint=FP-CF18-MFG New Footprint=FP-CF18-MFG
+Change Physical Footprint: Designator=R2 Old Footprint=RESAD700W45L350D185 New Footprint=RESAD700W45L350D185
+Change Physical Footprint: Designator=R3 Old Footprint=RESAD700W45L350D185 New Footprint=RESAD700W45L350D185
+Change Physical Footprint: Designator=R4 Old Footprint=RESAD700W45L350D185 New Footprint=RESAD700W45L350D185
+Change Physical Footprint: Designator=R5 Old Footprint=RESAD700W45L350D185 New Footprint=RESAD700W45L350D185
+Change Physical Footprint: Designator=R6 Old Footprint=RESAD700W45L350D185 New Footprint=RESAD700W45L350D185
+Change Physical Footprint: Designator=R7 Old Footprint=RESAD700W45L350D185 New Footprint=RESAD700W45L350D185
+Change Physical Footprint: Designator=R8 Old Footprint=RESAD700W45L350D185 New Footprint=RESAD700W45L350D185
+Change Physical Footprint: Designator=R10 Old Footprint=FP-3361P-MFG New Footprint=FP-3361P-MFG
+Change Physical Footprint: Designator=R11 Old Footprint=FP-CF18-MFG New Footprint=FP-CF18-MFG
+Change Physical Footprint: Designator=S1 Old Footprint=SW_DS01-254-L-01BE New Footprint=SW_DS01-254-L-01BE
+Change Physical Footprint: Designator=U1 Old Footprint=P0008A New Footprint=P0008A
+Change Physical Footprint: Designator=U2 Old Footprint=P0008A New Footprint=P0008A
+Change Physical Footprint: Designator=U3 Old Footprint=P0008A New Footprint=P0008A

@@ -1,0 +1,80 @@
+Removed Pin From Net: NetName=NetC2_2 Pin=R9-1
+Removed Pin From Net: NetName=NetC1_2 Pin=R9-2
+Change Component Description : Designator=232 Old Description=Battery holder, coin, 20MM 1 CEL PC PIN New Description=Battery holder, coin, 20MM 1 CEL PC PIN | Adam Tech BH-25C-1
+Change Component Description : Designator=BT1 Old Description=Battery holder, coin, 20MM 1 CEL PC PIN New Description=Battery holder, coin, 20MM 1 CEL PC PIN | Adam Tech BH-25C-1
+Change Component Description : Designator=BT2 Old Description=Battery holder, coin, 20MM 1 CEL PC PIN New Description=Battery holder, coin, 20MM 1 CEL PC PIN | Adam Tech BH-25C-1
+Added Component: Designator=Q3(ONSC-TO-92-3-29-11)
+Added Component: Designator=R9(FP-3361P-MFG)
+Add component (AddParameter): Name = "Color"; Value = "Natural"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "8.53mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.192inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "6.71mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Turns"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "100kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Cermet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "Trimpot® 3361 - Sealed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Taper"; Value = "Linear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "CERMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Gull Wing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "300V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "300V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.02oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.264inch"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin Q3-1
+Add Pin To Net: Unknown Pin: Pin Q3-2
+Add Pin To Net: Unknown Pin: Pin Q3-3
+Added Pin To Net: NetName=NetC2_2 Pin=R9-1
+Added Pin To Net: NetName=NetC1_2 Pin=R9-2
+Change Net Name : Old Net Name=NetBT2_N New Net Name=Net232_P
+Added Member To Class: ClassName=Sheet1 Member=Component 232 BH-25C-1
+Added Member To Class: ClassName=Sheet1 Member=Component BT1 BH-25C-1
+Added Member To Class: ClassName=Sheet1 Member=Component BT2 BH-25C-1
+Added Member To Class: ClassName=Sheet1 Member=Component C1 ECA-2WHG010
+Added Member To Class: ClassName=Sheet1 Member=Component C2 FA16X7R2A224KNU06
+Added Member To Class: ClassName=Sheet1 Member=Component C3 ECA1JM100
+Added Member To Class: ClassName=Sheet1 Member=Component C4 EEUFR1H101
+Added Member To Class: ClassName=Sheet1 Member=Component C5 C320C104M1U5TA
+Added Member To Class: ClassName=Sheet1 Member=Component C6 ECA1JM100
+Added Member To Class: ClassName=Sheet1 Member=Component C7 EEUFR1H101
+Added Member To Class: ClassName=Sheet1 Member=Component C8 C320C104M1U5TA
+Added Member To Class: ClassName=Sheet1 Member=Component C9 EEUFR1H101
+Added Member To Class: ClassName=Sheet1 Member=Component C10 C320C104M1U5TA
+Added Member To Class: ClassName=Sheet1 Member=Component D1 1N4148
+Added Member To Class: ClassName=Sheet1 Member=Component D2 1N4148
+Added Member To Class: ClassName=Sheet1 Member=Component D3 1N4148
+Added Member To Class: ClassName=Sheet1 Member=Component IC1 TMB12A12
+Added Member To Class: ClassName=Sheet1 Member=Component LS1 POM-2738P-R
+Added Member To Class: ClassName=Sheet1 Member=Component Q1 BC547B
+Added Member To Class: ClassName=Sheet1 Member=Component Q2 BC547B
+Add Class Member: Failed to add class member : Component Q3 BC547B
+Added Member To Class: ClassName=Sheet1 Member=Component Q4 BC547B
+Added Member To Class: ClassName=Sheet1 Member=Component R1 CF18JT10K0
+Added Member To Class: ClassName=Sheet1 Member=Component R2 2-1623928-8
+Added Member To Class: ClassName=Sheet1 Member=Component R3 2-1623927-3
+Added Member To Class: ClassName=Sheet1 Member=Component R4 5-1623927-8
+Added Member To Class: ClassName=Sheet1 Member=Component R5 2-1623928-5
+Added Member To Class: ClassName=Sheet1 Member=Component R6 CFR16J100K
+Added Member To Class: ClassName=Sheet1 Member=Component R7 5-1623927-0
+Added Member To Class: ClassName=Sheet1 Member=Component R8 2-1623928-5
+Added Member To Class: ClassName=Sheet1 Member=Component R9 3361P-1-104GLF
+Added Member To Class: ClassName=Sheet1 Member=Component R10 3361P-1-104GLF
+Added Member To Class: ClassName=Sheet1 Member=Component R11 CF18JT10K0
+Added Member To Class: ClassName=Sheet1 Member=Component S1 DS01-254-L-01BE
+Added Member To Class: ClassName=Sheet1 Member=Component U1 NE555P
+Added Member To Class: ClassName=Sheet1 Member=Component U2 NE555P
+Added Member To Class: ClassName=Sheet1 Member=Component U3 NE555P

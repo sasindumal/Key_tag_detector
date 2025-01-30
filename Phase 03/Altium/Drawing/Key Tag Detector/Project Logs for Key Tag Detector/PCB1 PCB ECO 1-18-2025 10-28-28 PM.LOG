@@ -1,0 +1,38 @@
+Add Component: Footprint Not Found CAPRB250W50L550T350H600
+Add Component: Footprint Not Found LEADED_DECOUPLING_CAP(.1)
+Add Component: Footprint Not Found LEADED_DECOUPLING_CAP(.1)
+Add Component: Footprint Not Found LEADED_DECOUPLING_CAP(.1)
+Add Component: Footprint Not Found RESAD700W45L350D185
+Add Component: Footprint Not Found RESAD700W45L350D185
+Add Component: Footprint Not Found RESAD700W45L350D185
+Add Component: Footprint Not Found RESAD700W45L350D185
+Add Component: Footprint Not Found RESAD700W45L350D185
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Add Pin To Net: Unknown Pin: Pin C9-1
+Add Pin To Net: Unknown Pin: Pin C9-2
+Add Pin To Net: Unknown Pin: Pin C-1
+Add Pin To Net: Unknown Pin: Pin C-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Class Member: Failed to add class member : Component C2 Capacitor
+Add Class Member: Failed to add class member : Component C3 FA16X7R2A224KNU06
+Add Class Member: Failed to add class member : Component C7 C320C104M1U5TA
+Add Class Member: Failed to add class member : Component C9 C320C104M1U5TA
+Add Class Member: Failed to add class member : Component C C320C104M1U5TA
+Add Class Member: Failed to add class member : Component R2 2-1623928-8
+Add Class Member: Failed to add class member : Component R3 2-1623927-3
+Add Class Member: Failed to add class member : Component R4 5-1623927-8
+Add Class Member: Failed to add class member : Component R5 2-1623928-5
+Add Class Member: Failed to add class member : Component R7 2-1623928-5

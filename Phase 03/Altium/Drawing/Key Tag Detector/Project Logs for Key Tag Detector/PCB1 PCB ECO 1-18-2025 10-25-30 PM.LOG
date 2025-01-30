@@ -1,0 +1,84 @@
+Added Component: Designator=BT1(BAT_BH-25C-1)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BH-25C-1/Adam+Tech/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Adam Tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BH-25C-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BH-25C-1/Adam+Tech/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=BT2(BAT_BH-25C-1)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BH-25C-1/Adam+Tech/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Adam Tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BH-25C-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BH-25C-1/Adam+Tech/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=BT3(BAT_BH-25C-1)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BH-25C-1/Adam+Tech/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Adam Tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BH-25C-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BH-25C-1/Adam+Tech/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CAPRB250W50L550T350H600
+Add Component: Footprint Not Found LEADED_DECOUPLING_CAP(.1)
+Add Component: Footprint Not Found LEADED_DECOUPLING_CAP(.1)
+Add Component: Footprint Not Found LEADED_DECOUPLING_CAP(.1)
+Add Component: Footprint Not Found RESAD700W45L350D185
+Add Component: Footprint Not Found RESAD700W45L350D185
+Add Component: Footprint Not Found RESAD700W45L350D185
+Add Component: Footprint Not Found RESAD700W45L350D185
+Add Component: Footprint Not Found RESAD700W45L350D185
+Added Component: Designator=S1(SW_DS01-254-L-01BE)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/DS01-254-L-01BE/CUI+Devices/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CUI_purchase_URL"; Value = "https://www.cuidevices.com/product/switches/dip-switches/ds01-254-series?utm_source=snapeda.com&utm_medium=referral&utm_campaign=snapedaBOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DS01-254-L-01BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/DS01-254-L-01BE/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DS01-254-L-01BE/CUI+Devices/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetBT1_N Pin=BT1-N
+Added Pin To Net: NetName=NetBT2_N Pin=BT2-N
+Added Pin To Net: NetName=NetBT1_N Pin=BT2-P
+Added Pin To Net: NetName=GND Pin=BT3-N
+Added Pin To Net: NetName=NetBT2_N Pin=BT3-P
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Add Pin To Net: Unknown Pin: Pin C9-1
+Add Pin To Net: Unknown Pin: Pin C9-2
+Add Pin To Net: Unknown Pin: Pin C-1
+Add Pin To Net: Unknown Pin: Pin C-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Added Pin To Net: NetName=NetBT1_P Pin=S1-1B
+Change Net Name : Old Net Name=NetBT1_P New Net Name=NetR1_2
+Added Pin To Net: NetName=NetBT1_P Pin=BT1-P
+Added Pin To Net: NetName=NetBT1_P Pin=S1-1A
+Added Net: Name=NetBT1_P
+Added Member To Class: ClassName=Sheet1 Member=Component BT1 BH-25C-1
+Added Member To Class: ClassName=Sheet1 Member=Component BT2 BH-25C-1
+Added Member To Class: ClassName=Sheet1 Member=Component BT3 BH-25C-1
+Add Class Member: Failed to add class member : Component C2 Capacitor
+Add Class Member: Failed to add class member : Component C3 FA16X7R2A224KNU06
+Add Class Member: Failed to add class member : Component C7 C320C104M1U5TA
+Add Class Member: Failed to add class member : Component C9 C320C104M1U5TA
+Add Class Member: Failed to add class member : Component C C320C104M1U5TA
+Add Class Member: Failed to add class member : Component R2 2-1623928-8
+Add Class Member: Failed to add class member : Component R3 2-1623927-3
+Add Class Member: Failed to add class member : Component R4 5-1623927-8
+Add Class Member: Failed to add class member : Component R5 2-1623928-5
+Add Class Member: Failed to add class member : Component R7 2-1623928-5
+Added Member To Class: ClassName=Sheet1 Member=Component S1 DS01-254-L-01BE
